@@ -11,12 +11,6 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v231
- - 恢复小米广告插件智能服务`com.miui.systemAdSolution`，改为文件禁止监视，因为有反馈说禁用会影响启动速度。
- - 什么，你说你已经卸载了？没事这里附上两个19和23年的版本，[小米智能服务](https://keytoolazy.lanzn.com/b007t52m1i)，密码：666。
->v232
- - 自行修改配置文件选择是否放行`小米智能服务`。
- - 修复`biubiu加速器`的快手sdk广告无法播放视频。
->v233
- - 修复QQ音乐开屏广告的问题😓，这玩意很离谱，`tmead.y.qq.com`和`tmeadcomm.y.qq.com`好像拦了，好像又没拦。
- 
+>v235
+ - 修复`ads_monitor`的一个错误。
+
