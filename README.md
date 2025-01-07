@@ -5,12 +5,12 @@
 ## 在模块压缩包内修改模块！！！！！！！
 
 - ## v234
-| **名称** | **链接** | **国内镜像** |
+| **名称** | **链接** | **GIthub加速链接** |
 | :-- | :-- | :-- |
 | **234** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads234.zip) |
-| **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/reward)|
-| **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/all) |
-| **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/adb.txt)|
+| **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/reward) |
+| **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/all) |
+| **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt)|
 | **蓝奏云链接(密码666)** | [蓝奏云](https://keytoolazy.lanzouw.com/b03j67j0f) |
 
 
