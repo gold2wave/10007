@@ -16,4 +16,6 @@
 >v236
  - 修改广告奖励`hosts`挂载方式，模块hosts文件改为`mount --bind`，文件在`/data/adb/modules/GGAT_10007/Host`，原因是因为QQ音乐的广告用iptables无法屏蔽，网络性能应该会有改善？
  - 修复唯品会`api.union.vip.com`误杀。
- 
+>v237
+ - 修复一个`QQ音乐`无法观看奖励的问题。
+
