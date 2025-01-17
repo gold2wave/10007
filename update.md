@@ -13,4 +13,7 @@
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
 >v235
  - 修复`ads_monitor`的一个错误。
-
+>v236
+ - 修改广告奖励`hosts`挂载方式，模块hosts文件改为`mount --bind`，文件在`/data/adb/modules/GGAT_10007/Host`，原因是因为QQ音乐的广告用iptables无法屏蔽，网络性能应该会有改善？
+ - 修复唯品会`api.union.vip.com`误杀。
+ 
