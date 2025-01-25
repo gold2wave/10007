@@ -11,11 +11,9 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v235
- - 修复`ads_monitor`的一个错误。
->v236
- - 修改广告奖励`hosts`挂载方式，模块hosts文件改为`mount --bind`，文件在`/data/adb/modules/GGAT_10007/Host`，原因是因为QQ音乐的广告用iptables无法屏蔽，网络性能应该会有改善？
- - 修复唯品会`api.union.vip.com`误杀。
->v237
- - 修复一个`QQ音乐`无法观看奖励的问题。
+>v238
+ - 添加一个mount_hosts挂载hosts文件，源码在模块里，可以自己修改。
+ > 配置文件在/data/adb/modules/GGAT_10007/mod/mount_hosts/配置包名.prop，会自动读取顶层应用包名挂载hosts
+ >> 优点就是①自动放行需要添加的广告应用②游戏之类的，把广告奖励自己在配置文件改成`recovery`后，网络波动应该不大了(不玩游戏，自测)③ksu/Apatch应该不会检测到挂载，因为用了`mount --bind`，可以用`cat /proc/mounts | grep hosts`查看挂载情况。
+ >>> 缺点是有点**卡顿**，用了`dumpsys`命令获取顶层应用，耗电自测，默认不开启。
 
