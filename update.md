@@ -16,5 +16,6 @@
  > 配置文件在/data/adb/modules/GGAT_10007/mod/mount_hosts/配置包名.prop，会自动读取顶层应用包名挂载hosts
  >> 优点就是①自动放行需要添加的广告应用②游戏之类的，把广告奖励自己在配置文件改成`recovery`后，网络波动应该不大了(不玩游戏，自测)③ksu/Apatch应该不会检测到挂载，因为用了`mount --bind`，可以用`cat /proc/mounts | grep hosts`查看挂载情况。
  >>> 缺点是有点**卡顿**，用了`dumpsys`命令获取顶层应用，耗电自测，默认不开启。
+
 >v239
  - 优化`ads_monitor`和`mount_hosts`运行速度。
