@@ -22,9 +22,9 @@
 
 ---
 
->v240
- - 添加`ads_monitor`白名单，防止修改`ads_monitor.prop`错误导致数据丢失。
- 
+>v241
+ - 压缩`ads_monitor`和`mount_hosts`体积。
+ - 更新hosts。
 
 
 
