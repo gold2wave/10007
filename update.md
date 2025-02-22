@@ -22,9 +22,8 @@
 
 ---
 
->v241
- - 压缩`ads_monitor`和`mount_hosts`体积。
- - 更新hosts。
+>v242
+ - 修复`mount_hosts`在低安卓版本无法获取前台应用的bug。
 
 
 
