@@ -14,6 +14,12 @@
 >v246
  - 修改`ads_monitor`对目录权限的判定。
  - 更新`hosts`。
+>v247
+ - 修复网易听歌统计。
+```
+127.0.0.1 clientlogdep.music.163.com
+127.0.0.1 clientlogsf.music.163.com
+```
 
 
 

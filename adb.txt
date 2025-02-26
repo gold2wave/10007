@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z5Ny9HXR1nykJi8mM7kthA
+! Checksum: QANvbI02nsJMojpmwxfU7A
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2025-02-26 12:49:21
+! Last modified: 2025-02-26 14:08:25
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -11925,8 +11925,6 @@
 ||client-events.inner-active.mobi^
 ||client.rave-api.com^
 ||client.vads.net.vn^
-||clientlogdep.music.163.com^
-||clientlogsf.music.163.com^
 ||clients-api.pushengage.com^
 ||clients-share.com^
 ||clients.adventmedia.net^
