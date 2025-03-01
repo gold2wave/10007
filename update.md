@@ -11,15 +11,16 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v246
- - 修改`ads_monitor`对目录权限的判定。
- - 更新`hosts`。
 >v247
  - 修复网易听歌统计。
 ```
 127.0.0.1 clientlogdep.music.163.com
 127.0.0.1 clientlogsf.music.163.com
 ```
+>v249
+ - 修复`hosts`合并不会到`all`和`reward`文件。
+ - 更新[neodevhost](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host)源。
+
 
 
 
