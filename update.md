@@ -20,9 +20,8 @@
 >v249
  - 修复`hosts`合并不会到`all`和`reward`文件。
  - 更新[neodevhost](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host)源。
->v250
- - 已安装的可以不更新。
-
+>v251
+ - 暂时回退`neodevhost`，这个full版本太容易误杀了。
 
 
 
