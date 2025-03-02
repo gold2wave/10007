@@ -7,7 +7,7 @@
 - ## v248
 | **名称** | **链接** | **GIthub加速链接** |
 | :-- | :-- | :-- |
-| **248** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads248.zip) |
+| **250** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads250.zip) |
 | **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/reward) |
 | **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/all) |
 | **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt)|
