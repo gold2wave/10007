@@ -11,17 +11,10 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v247
- - 修复网易听歌统计。
-```
-127.0.0.1 clientlogdep.music.163.com
-127.0.0.1 clientlogsf.music.163.com
-```
->v249
- - 修复`hosts`合并不会到`all`和`reward`文件。
- - 更新[neodevhost](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host)源。
->v251
- - 暂时回退`neodevhost`，这个full版本太容易误杀了。
+>v253
+ - 汽水音乐，还不行就用`xposed`模块去除。
+ - 优化`ads_monitor`处理速度。
+ 
 
 
 
