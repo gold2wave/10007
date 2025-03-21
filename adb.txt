@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sdWlwjpuFsuuPXVKPDToIA
+! Checksum: DWxdNkgjuLXB6gPB1hGUpA
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2025-03-21 02:27:49
+! Last modified: 2025-03-21 09:43:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -15848,6 +15848,7 @@
 ||p2-ad.byteimg.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
 ||p2-jx.adukwai.com^
+||p2-lm.adkwai.com^
 ||p2-lm.adukwai.com^
 ||p2-orange.byteorge.com^
 ||p2.adhitzads.com^
@@ -15928,6 +15929,7 @@
 ||p3-ad.adukwai.com^
 ||p3-ad.byteimg.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
+||p3-lm.adkwai.com^
 ||p3-orange.byteorge.com^
 ||p3.adhitzads.com^
 ||p3.adkwai.com^
@@ -17962,6 +17964,8 @@
 ||si.bingads.microsoft.com^
 ||siads.sv.publicus.com^
 ||sicariimedia.rtb.adx1.com^
+||sigmob.cn^
+||sigmob.com^
 ||signup.advance.net^
 ||simba.6.cn^
 ||simba.m.taobao.com^

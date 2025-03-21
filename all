@@ -15289,6 +15289,7 @@
 127.0.0.1 p2-ad.byteimg.com
 127.0.0.1 p2-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p2-jx.adukwai.com
+127.0.0.1 p2-lm.adkwai.com
 127.0.0.1 p2-lm.adukwai.com
 127.0.0.1 p2-orange.byteorge.com
 127.0.0.1 p2.adhitzads.com
@@ -15369,6 +15370,7 @@
 127.0.0.1 p3-ad.adukwai.com
 127.0.0.1 p3-ad.byteimg.com
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 p3-lm.adkwai.com
 127.0.0.1 p3-orange.byteorge.com
 127.0.0.1 p3.adhitzads.com
 127.0.0.1 p3.adkwai.com
@@ -17403,6 +17405,8 @@
 127.0.0.1 si.bingads.microsoft.com
 127.0.0.1 siads.sv.publicus.com
 127.0.0.1 sicariimedia.rtb.adx1.com
+127.0.0.1 sigmob.cn
+127.0.0.1 sigmob.com
 127.0.0.1 signup.advance.net
 127.0.0.1 simba.6.cn
 127.0.0.1 simba.m.taobao.com
